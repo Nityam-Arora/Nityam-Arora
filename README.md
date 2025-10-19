@@ -16,6 +16,8 @@ I'm a passionate Bachelor of Computer Applications student with a strong foundat
 
 * **[Expense Tracker App](https://github.com/Nityam-Arora/Expense-Tracker-App):** A full-stack Android application built with Java and Room Database for efficient personal finance management. Features include expense recording, categorization, and intuitive budget tracking.
 
+* **[Student Management System](https://github.com/Nityam-Arora/Student-Management-System):** A full-stack Android application built with Firebase database and Firebase Authentication to add and manage students and teachers.
+
 ---
 
 #### Let's Connect!
