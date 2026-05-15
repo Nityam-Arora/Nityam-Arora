@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Nityam Arora!
 
-I'm a passionate Bachelor of Computer Applications student with a strong foundation in Java and Android app development. I enjoy building real-world applications and continuously expanding my technical skills.
+I enjoy building real-world applications and continuously expanding my technical skills.
 
 ---
 
 #### My Toolkit:
-* **Languages:** Java, C++, C#
-* **Mobile Development:** Android Studio, Room Database
-* **Tools:** Git/GitHub, Unity
-* **AI:** Prompt Engineering, ChatGPT
+* **Languages:** Java, C++, C#, Dart
+* **Mobile Development:** Android Studio, Room Database, Flutter
+* **Tools:** Git/GitHub, Unity, Android Studio
+* **AI:** Prompt Engineering, Codex
 
 ---
 
@@ -22,12 +22,11 @@ I'm a passionate Bachelor of Computer Applications student with a strong foundat
 
 #### Let's Connect!
 * **LinkedIn:** [https://www.linkedin.com/in/nityamarora](https://www.linkedin.com/in/nityamarora)
-* **Email:** nityamarora1122@gmail.com
+* **Email:** developer.nityam@gmail.com
 
 ---
 
 #### Interests:
 * Unity Game Development
 * Video Editing
-* Creative Design (Canva)
 * Exploring new technologies
